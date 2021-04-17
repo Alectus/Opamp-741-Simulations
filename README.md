@@ -15,6 +15,10 @@ https://www.simulide.com/p/downloads.html
 Once downloaded there are more examples about Opamp circuits at 
 SimulIDE_0.4.15-SR1_Win64\share\simulide\examples\OP_Amp
 
+On the SimulIDE forum there is a topic when some help is needed.
+
+https://simulide.forumotion.com/t186-opamp-741-simulations#897
+
 This repository starts at example no. 21 from the book.
 
 21. Square Wave Generator - Kick Starter is needed because the 741 does not pick up 
