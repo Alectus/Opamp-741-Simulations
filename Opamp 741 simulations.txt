@@ -5,7 +5,7 @@ It uses this book:
 
 https://diagramas.diagramasde.com/otros/41%20Projects%20using%20IC%20741%20OP-AMP.pdf
 
-A text file is added with more details about each simulation and will be updated now and then.
+This text file is added with more details about each simulation and will be updated now and then.
 
 The simulations are made with SimulIDE 0.4.15-SR1 and can be downloaded here:
 
