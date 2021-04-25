@@ -19,7 +19,7 @@ On the SimulIDE forum there is a topic when some help is needed.
 
 https://simulide.forumotion.com/t186-opamp-741-simulations#897
 
-This repository starts at example no. 21 from the book.
+This repository starts at example no. 21 from the book and ends with 41.
 
 21. Square Wave Generator - Kick Starter is needed because the 741 does not pick up 
 noise from the surroundings like on a real bread board.
